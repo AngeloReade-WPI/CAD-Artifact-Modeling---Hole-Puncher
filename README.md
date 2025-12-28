@@ -42,7 +42,7 @@ the design and how the mechanism functions as a complete system.
 
 *Side view of the fully assembled hole puncher, showing the overall form and component layout.*
 
-![Hole puncher exploded view](./Image-HolePuncherExplodedview.png)
+![Hole puncher exploded view](https://raw.githubusercontent.com/AngeloReade-WPI/CAD-Artifact-Modeling---Hole-Puncher/refs/heads/main/images/Image-HolePuncherExplodedview.png)
 
 *Exploded view illustrating individual parts and how they assemble into the complete mechanism.*
 
