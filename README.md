@@ -1,17 +1,41 @@
-# CAD-Artifact-Modeling---Hole-Puncher
-Used SolidWorks to create a 1:1 functional replica of a 2 prong hole puncher
- The project included:
- 
--Precision part modeling using parametric sketches and feature based design to accurately reflect design intent
 
--Kinematic assembly containing various mates to simulate real world motion
+# Hole Puncher CAD Assembly
 
--Motion analysis and animation using motion studies
+## Overview
+This project is a fully modeled 1-1 two pronghole puncher assembly designed in CAD with multiple moving components.
+The goal was to create a mechanically accurate model that clearly demonstrates part relationships,
+motion, and manufacturability.
 
-- Fully annotated ANSI formatted engineering drawings for manufacturing
+## My Role
+- Designed and modeled all components
+- Assembled parts with correct constraints
+- Verified motion of the punching mechanism
+- Organized files for clarity and reuse
+- Create part and engineering drawings for manufacturability (ANSI Metric standard)
+- Create a motion picture demonstrating proper constraints and movement
 
-Skills learned: Solidworks, parametric design, mechanical system modeling,technical documentation
+## Tools & Skills
+- Solidworks suite
+- Parametric modeling
+- Design for manufacturability
+- Basic FEA
 
-Final Grade: 100
+## Key Features
+- Multi-part assembly with moving linkage
+- Realistic motion of punch mechanism
+- Clean part hierarchy and naming
+- Dimensioned and constrained components
+
+## Files
+This repository contains:
+- Assembly files
+- Animation 
+- Detailed drawings
+- Supporting design artifacts
+
+
+
+
+
 
 
