@@ -33,6 +33,21 @@ This repository contains:
 - Detailed drawings
 - Supporting design artifacts
 
+The images below highlight the overall structure, component relationships, and key mechanical features
+of the hole puncher CAD assembly. These views are intended to provide a clear visual understanding of
+the design and how the mechanism functions as a complete system.
+
+![Hole puncher side view](Image-HolePuncherSideview.png)
+
+*Side view of the fully assembled hole puncher, showing the overall form and component layout.*
+
+![Hole puncher exploded view](Image-HolePuncherExplodedview.png)
+
+*Exploded view illustrating individual parts and how they assemble into the complete mechanism.*
+
+> **Note:** Full design files, detailed part models, and additional implementation details are available
+> in the repository for those interested in a deeper technical breakdown.
+
 
 
 
