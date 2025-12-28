@@ -38,7 +38,7 @@ The images below highlight the overall structure, component relationships, and k
 of the hole puncher CAD assembly. These views are intended to provide a clear visual understanding of
 the design and how the mechanism functions as a complete system.
 
-![Hole puncher side view](./Image-HolePuncherSideview.png)
+![Hole puncher side view]([./Image-HolePuncherSideview.png](https://raw.githubusercontent.com/AngeloReade-WPI/CAD-Artifact-Modeling---Hole-Puncher/refs/heads/main/images/Image-HolePuncherSideview.png))
 
 *Side view of the fully assembled hole puncher, showing the overall form and component layout.*
 
